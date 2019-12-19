@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Lakshhmiprasadh/prasad-bz-training/issues"
   },
-  "homepage": "https://github.com/Lakshhmiprasadh/prasad-bz-training#readme"
+  "homepage": "https://github.com/Lakshhmiprasadh/prasad-bz-training#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
